@@ -1,2 +1,4 @@
 ## About this project
 I made this project in 2022 when I was a senior in highschool. My friends used discord as their primary mode of communication, but it was blocked on the school's wifi and my phone plan, covered by my parents, wasn't very good. So I created a website and a discord bot to send messages between discord and my site. The website was hosted on replit back when they had more features available for free.
+
+Locking back at this code, it is very messy. I would not suggest attempting to learn from it other than learning how not to organize your code. This repository exists purely for archival purposes
