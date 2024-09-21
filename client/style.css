@@ -1,0 +1,46 @@
+.sys {
+    color: #FFFF70;
+    margin: 15px 0 0 0;
+}
+  
+.discord {
+    color: #00AAFF
+}
+  
+#message {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 80%;
+    height: 30px;
+    padding: 0;
+}
+  
+#send {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 20%;
+    height: 34px;
+    padding: 0;
+}
+  
+#messageArea {
+    width: 100%;
+    overflow-x: hidden;
+}
+  
+body {
+    margin: 10px 10px 15px 15px;
+    background: #505050;
+    color: #EEE;
+    word-wrap: normal;
+}
+  
+h4 {
+    margin: 15px 0 0 0;
+}
+  
+p {
+    margin: 0 0 0 0;
+}
